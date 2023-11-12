@@ -3,7 +3,9 @@ This project is a major set of trials based on the Energy Demand Research Projec
 
 ## Installation
 Provide detailed instructions on how to install and set up the project, including dependencies, environment configuration, etc.
-  pip install pandas
+```
+pip install pandas
+```
 
 ## Project Background
 

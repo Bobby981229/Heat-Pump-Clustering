@@ -6,7 +6,6 @@ Provide detailed instructions on how to install and set up the project, includin
 ```
 pip install pandas
 ```
-
 ## Project Background
 
 Explain why you created this project, provide background information about the project, and mention any potential issues or needs.

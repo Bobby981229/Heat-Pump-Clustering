@@ -9,6 +9,9 @@ Explain why you created this project, provide background information about the p
 Provide detailed instructions on how to install and set up the project, including dependencies, environment configuration, etc.
 ```
 pip install pandas
+pip install numpy
+pip install scikit-learn
+pip install matplotlib
 ```
 
 ## Data Selection

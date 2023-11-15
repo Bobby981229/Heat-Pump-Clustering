@@ -12,6 +12,7 @@ pip install pandas
 pip install numpy
 pip install scikit-learn
 pip install matplotlib
+pip install seaborn
 ```
 
 ## Data Selection
